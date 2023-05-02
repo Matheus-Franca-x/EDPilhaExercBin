@@ -8,7 +8,7 @@ public class Main
 	public static void main(String[] args)
 	{
 		ConverteController pilhaBin = new ConverteController();
-		pilhaBin.decToBin(8);
+		pilhaBin.decToBin(18);
 		
 
 		
